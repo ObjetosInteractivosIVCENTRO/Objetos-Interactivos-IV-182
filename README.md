@@ -6,6 +6,10 @@ El curso esta diseñado para el desarrollo de historias interactivas usando tecn
 ### Info:
   - Adrian Santuario, Jueves, 14:00 - 18:00, C306. 
     *asantuario[at]centro[dot]edu[dot]mx*
+
+### Periodo:
+
+  - 29/01/2018 - 06/06/2018
   
 ### Objetivos:
   - Identificar qué hace del contenido experimentado a través de AR/VR un nuevo tipo de medio diferente al cine, TV, etc...
