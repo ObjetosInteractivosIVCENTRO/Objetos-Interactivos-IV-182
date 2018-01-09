@@ -4,7 +4,8 @@
 El curso esta diseñado para el desarrollo de historias interactivas usando tecnologías de Realidad Aumentada y Realidad Virtual (AR/VR). Las plataformas de desarrollo del curso será Unity3D, Vuforia SDK y A-Frame. El curso se enfoca tanto en la exploración tecnológica como narrativa de la producción de dichas experiencias.
 
 ### Info:
-  - Adrian Santuario, Jueves, 14:00 - 18:00, C306. asantuario
+  - Adrian Santuario, Jueves, 14:00 - 18:00, C306. 
+    *asantuario[at]centro[dot]edu[dot]mx*
   
 ### Objetivos:
   - Identificar qué hace del contenido experimentado a través de AR/VR un nuevo tipo de medio diferente al cine, TV, etc...
